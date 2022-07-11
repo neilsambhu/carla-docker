@@ -21,3 +21,7 @@ wget http://ftp.kr.debian.org/debian/pool/main/i/init-system-helpers/init-system
 sudo apt install ./init-system-helpers_1.60_all.deb
 # sudo apt-get install ./docker-desktop-<version>-<arch>.deb
 sudo apt-get install ./docker-desktop-4.10.1-amd64.deb
+
+# Cleanup 
+rm docker-desktop-4.10.1-amd64.deb
+rm init-system-helpers_1.60_all.deb
