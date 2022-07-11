@@ -9,4 +9,4 @@ https://docs.docker.com/desktop/linux/install/ubuntu/ "Install Docker Desktop on
 
 "Prerequisites"
 
-Run docker_desktop_prerequisites.sh
+Run docker_desktop_prerequisites.sh[docker_desktop_prerequisites.sh]
