@@ -19,7 +19,7 @@ Run [install_docker_desktop.sh](install_docker_desktop.sh)
 
 Run [launch_docker_desktop.sh](launch_docker_desktop.sh)
 
-# Troubleshooting
+# Troubleshooting: start
 7/11/2022 4:33 PM: reboot
 
 7/11/2022: Run [launch_docker_desktop.sh](launch_docker_desktop.sh)
@@ -39,3 +39,6 @@ Client: Docker Engine - Community
  Context:           default
  Experimental:      true
 ```
+# Troubleshooting: end
+
+Run [enable_docker_desktop_start_on_login.sh](enable_docker_desktop_start_on_login.sh)
